@@ -1,0 +1,12 @@
+.movie-tile {
+  height: 200px;
+  width: 500px;
+  overflow: hidden;
+  position: relative;
+}
+
+/* BEM styling */
+.movie-tile__image {
+  position: absolute;
+  top: 0;
+}
