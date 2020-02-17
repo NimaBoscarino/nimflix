@@ -6,13 +6,6 @@ Some of the stuff you looked at this weekend
 - made your first component (agreement)
 - C O M P O N E N T
 
-# All the other days
-
-///
-
-
-
-
 
 FRONT
 - HTML
@@ -76,6 +69,4 @@ COMPONENT
     - behaviour
 
 - INPUT -> FUNCTION -> VISUAL OUTPUT
-
-```
-```
+            STATE--^
